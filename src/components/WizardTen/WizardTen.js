@@ -1,6 +1,7 @@
 import React,  { Component } from 'react';
 import { Link } from 'react-router-dom';
 
+
 class WizardTen extends Component {
     render(){
         return(
@@ -19,4 +20,6 @@ class WizardTen extends Component {
         )
     }
 }
-export default WizardTen;
+
+
+export default WizardTen
